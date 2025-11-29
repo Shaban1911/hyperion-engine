@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\malli\Desktop\ME\project1_hyperion\hyperion\src\benchmark.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\malli\Desktop\ME\project1_hyperion\hyperion\src\hyperion.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\malli\Desktop\ME\project1_hyperion\hyperion\src\arena.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\malli\Desktop\ME\project1_hyperion\hyperion\src\index.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\malli\Desktop\ME\project1_hyperion\hyperion\src\seqlock.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\malli\Desktop\ME\project1_hyperion\hyperion\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6365D8B2-8357-39BD-901C-AA169F5F9106}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F71305D2-2978-392F-94F0-FC327E38167B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

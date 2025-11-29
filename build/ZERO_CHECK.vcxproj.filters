@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\malli\Desktop\ME\project1_hyperion\hyperion\build\CMakeFiles\a5e86bdf338c5bcd7d5c250d90909ef0\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{75EF9D9A-DB76-30F5-9488-12EA045EA1C5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
